@@ -1,2 +1,2 @@
-# desafio-dio-html5-css3
+# Desafio DIO HTML5/CSS3
 Desenvolvendo um menu hamburguer e morphing menu com CSS Transitions
